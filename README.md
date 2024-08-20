@@ -6,6 +6,8 @@
 #### Iniciar nodo de publicación de heartbeat
 - ros2 run health_check_pkg diagnostics_publisher_node 
 
+##
+
 #### Iniciar nodo de publicación de diagnostico
 - ros2 run health_check_pkg diagnostics_publisher_node
 
